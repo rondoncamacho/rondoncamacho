@@ -27,5 +27,4 @@ Mi trayectoria en operaciones me ha llevado a profundizar en la **arquitectura d
 
 ---
 
-📫 **Conectemos:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rondoncamacho/)
