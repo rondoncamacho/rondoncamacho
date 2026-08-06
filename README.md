@@ -1,11 +1,9 @@
-# ¡Hola! Soy Luis Rondón 
+ **Ingeniero en Sistemas** con más de 8 años de trayectoria en el sector IT, especializado en la **operación, estabilidad y administración de sistemas de misión crítica**.
 
-🎓 **Ingeniero en Sistemas** con más de 8 años de trayectoria en el sector IT, especializado en la **operación, estabilidad y administración de sistemas de misión crítica**.
-
-🚨 **Experiencia destacada en entornos de alta criticidad:**
+ **Experiencia destacada en entornos de alta criticidad:**
 *   **Gestión de Emergencias:** Administración y monitoreo de las plataformas de despacho de emergencias para el **911 de la Policía de la Ciudad de Buenos Aires**, **SAME (107)** y **CUCC (108, 103)**, garantizando la continuidad operativa 24/7.
 
-⚙️ **Enfoque actual:**
+ **Enfoque actual:**
 Mi trayectoria en operaciones me ha llevado a profundizar en la **arquitectura de redes** y la **infraestructura de servidores**. Actualmente, mi trabajo se centra en el diseño de entornos virtualizados, la administración de redes corporativas y la automatización de tareas para entornos híbridos.
 
 ---
@@ -16,7 +14,7 @@ Mi trayectoria en operaciones me ha llevado a profundizar en la **arquitectura d
 
 ---
 
-### 📂 Proyectos destacados
+### Proyectos destacados
 
 🔹 **SFx-ControlHub - Sistema de Gestión Centralizada**
 *Aplicación de escritorio desarrollada en Python con interfaz gráfica (Tkinter), diseñada para el monitoreo y gestión remota de equipos en red. Permite la ejecución de comandos CMD, reinicios, visualización de logs y administración de nodos. Herramienta interna utilizada para optimizar el soporte operativo en entornos corporativos.*
