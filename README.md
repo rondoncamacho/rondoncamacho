@@ -1,6 +1,6 @@
 # ¡Hola! Soy Luis Rondón 
 
-🎓 **Ingeniero en Sistemas** (UNEFA) con más de 8 años de trayectoria en el sector IT, especializado en la **operación, estabilidad y administración de sistemas de misión crítica**.
+🎓 **Ingeniero en Sistemas** con más de 8 años de trayectoria en el sector IT, especializado en la **operación, estabilidad y administración de sistemas de misión crítica**.
 
 🚨 **Experiencia destacada en entornos de alta criticidad:**
 *   **Gestión de Emergencias:** Administración y monitoreo de las plataformas de despacho de emergencias para el **911 de la Policía de la Ciudad de Buenos Aires**, **SAME (107)** y **CUCC (108, 103)**, garantizando la continuidad operativa 24/7.
