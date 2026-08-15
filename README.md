@@ -18,7 +18,7 @@ Mi trayectoria en operaciones me ha llevado a profundizar en la **arquitectura d
 
 🔹 **SFx-ControlHub - Sistema de Gestión Centralizada**
 *Aplicación de escritorio desarrollada en Python con interfaz gráfica (Tkinter), diseñada para el monitoreo y gestión remota de equipos en red. Permite la ejecución de comandos CMD, reinicios, visualización de logs y administración de nodos. Herramienta interna utilizada para optimizar el soporte operativo en entornos corporativos.*
-👉 `https://github.com/rondoncamacho/sfx-controlhub-desktop-demo`
+👉 `https://github.com/rondoncamacho/sfx-controlhub-desktop_demo`
 
 🔹 **Infraestructura Corporativa Virtualizada (Sysadmin Lab)**
 *Laboratorio de ingeniería diseñado para simular una red corporativa real utilizando KVM como hipervisor. El stack incluye enrutamiento avanzado con iptables, túneles seguros WireGuard, balanceo de carga con HAProxy y automatización de tareas con Bash. Implementación de políticas de Zero Trust, hardening de SSH, gestión de secretos con Vault y monitoreo de ataques con Fail2ban.*
