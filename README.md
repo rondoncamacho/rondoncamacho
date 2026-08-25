@@ -1,6 +1,6 @@
 # Luis Miguel Andrés Rondón Camacho
 
-**Ingeniero en Sistemas** con más de 8 años de trayectoria en el sector IT, especializado en la **operación, estabilidad y administración de sistemas de misión crítica**.
+**Ingeniero en Sistemas** con más de 10 años de trayectoria en el sector IT, especializado en la **operación, estabilidad y administración de sistemas de misión crítica**.
 
 ---
 
